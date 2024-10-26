@@ -1,12 +1,5 @@
 # Jupiter
-#       _             _ _            
-#      | |           (_) |           
-#     | |_   _ _ __  _| |_ ___ _ __ 
-#  _   | | | | | '_ \| | __/ _ \ '__|
-# | |__| | |_| | |_) | | ||  __/ |   
-# \____/ \__,_| .__/|_|\__\___|_|   
-#              | |                   
-#              |_|                  
+![image](https://github.com/user-attachments/assets/c37f2715-a6d3-4907-ae32-3698979467b3)
 
 Jupiter is a powerful ultimate for Roblox. It allows you to gain complete control over your accounts. If you bought or received cookies from someone, this is just for you. Now Jupiter is free as it is in a test version until the new year. Free user:
 Guset / 123
