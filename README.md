@@ -7,6 +7,8 @@ Support this project with a star. If there is a special asset here, I will relea
 
 Download from github or from MediaTech
 
+Run install.bat
+
 Application screenshots:
 # Home
 ![image](https://github.com/user-attachments/assets/aa2e0474-a43e-4e15-b53f-3ddbf542b453)
