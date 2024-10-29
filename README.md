@@ -20,6 +20,6 @@ Application screenshots:
 ![image](https://github.com/user-attachments/assets/aa407436-8bdf-4d62-b37c-46b25958acdb)
 # Group finder 
 ![image](https://github.com/user-attachments/assets/abe034b6-5cfb-484e-88ea-b947f87ad4b7)
-Home (1.4.0)
+# Home (1.4.0)
 ![image](https://github.com/user-attachments/assets/5e1cc6f5-ac2b-4c32-8115-ec2b52a8ea66)
 
