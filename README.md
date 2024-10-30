@@ -1,5 +1,6 @@
 # Jupiter
-![image](https://github.com/user-attachments/assets/c37f2715-a6d3-4907-ae32-3698979467b3)
+![image](https://github.com/user-attachments/assets/7c739472-0ff4-4b27-8189-e2f2a113ae7c)
+
 
 Jupiter is a powerful ultimate for Roblox. It allows you to gain complete control over your accounts. If you bought or received cookies from someone, this is just for you. Now Jupiter is free as it is in a test version until the new year. Free user:
 Guset / 123
@@ -11,15 +12,16 @@ Run install.bat
 
 Application screenshots:
 # Home
-![image](https://github.com/user-attachments/assets/aa2e0474-a43e-4e15-b53f-3ddbf542b453)
+![image](https://github.com/user-attachments/assets/6c130b23-08f8-407f-b0b0-12696d51e514)
 # Pin Cracker
-![image](https://github.com/user-attachments/assets/7473f1b7-ba72-4888-afc2-83f558733af9)
+![image](https://github.com/user-attachments/assets/9ce309bb-3f49-44e0-945a-f95ec5608804)
 # Cookie checker
-![image](https://github.com/user-attachments/assets/5d737ef8-5041-45ec-b182-96be627095f7)
+![image](https://github.com/user-attachments/assets/40f229a2-f4af-4364-98f2-7286d36acf11)
 # Validator (will come in 1.4.0)
-![image](https://github.com/user-attachments/assets/aa407436-8bdf-4d62-b37c-46b25958acdb)
+{image:Github.error}
 # Group finder 
 ![image](https://github.com/user-attachments/assets/abe034b6-5cfb-484e-88ea-b947f87ad4b7)
-# Home (1.4.0)
-![image](https://github.com/user-attachments/assets/5e1cc6f5-ac2b-4c32-8115-ec2b52a8ea66)
+# Nucker
+![image](https://github.com/user-attachments/assets/9abfa131-2930-48ec-85a9-8999270e17c3)
+
 
