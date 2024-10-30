@@ -17,9 +17,9 @@ Application screenshots:
 ![image](https://github.com/user-attachments/assets/9ce309bb-3f49-44e0-945a-f95ec5608804)
 # Cookie checker
 ![image](https://github.com/user-attachments/assets/40f229a2-f4af-4364-98f2-7286d36acf11)
-# Validator (will come in 1.4.0)
+# Validator (1.4.0)
 {image:Github.error}
-# Group finder 
+# Group finder (Old UI)
 ![image](https://github.com/user-attachments/assets/abe034b6-5cfb-484e-88ea-b947f87ad4b7)
 # Nucker
 ![image](https://github.com/user-attachments/assets/9abfa131-2930-48ec-85a9-8999270e17c3)
