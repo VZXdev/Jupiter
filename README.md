@@ -1,4 +1,4 @@
-# Jupiter
+#  🪐 Jupiter 🪐
 ![image](https://github.com/user-attachments/assets/7c739472-0ff4-4b27-8189-e2f2a113ae7c)
 
 
