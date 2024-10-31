@@ -17,11 +17,16 @@ Application screenshots:
 ![image](https://github.com/user-attachments/assets/9ce309bb-3f49-44e0-945a-f95ec5608804)
 # Cookie checker
 ![image](https://github.com/user-attachments/assets/40f229a2-f4af-4364-98f2-7286d36acf11)
-# Validator (1.4.0)
-{image:Github.error}
-# Group finder (Old UI)
-![image](https://github.com/user-attachments/assets/abe034b6-5cfb-484e-88ea-b947f87ad4b7)
+# Validator
+![image](https://github.com/user-attachments/assets/c317cfb4-4c1e-458e-9090-ed93aad7705b)
+# Group finder
+![image](https://github.com/user-attachments/assets/a3e95f6e-593a-45e3-b486-e910c5205466)
 # Nucker
 ![image](https://github.com/user-attachments/assets/9abfa131-2930-48ec-85a9-8999270e17c3)
+# Free item buyer
+![image](https://github.com/user-attachments/assets/f1b6a14c-d56d-4e81-95a2-5906ff6d921e)
+# cookie generator
+![image](https://github.com/user-attachments/assets/fe365ea7-cb95-494a-9f7b-de75ec2553fb)
+![image](https://github.com/user-attachments/assets/08a0f194-7ca7-47fd-bb3e-af020494b2f4)
 
 
