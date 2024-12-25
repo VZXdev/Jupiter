@@ -199,8 +199,8 @@ def check(cookie):
   for i in groupIds:
     groupFunds += int(requests.get(f"https://economy.roblox.com/v1/groups/{i}/currency", cookies={'.ROBLOSECURITY': str(cookie)}).json()['robux'])
 
-Крыса, [26.10.2024 16:35]
-creationDate = requests.get(f'https://users.roblox.com/v1/users/{userid}').json()['created']
+
+  creationDate = requests.get(f'https://users.roblox.com/v1/users/{userid}').json()['created']
   display = userdata['displayName']
   Write.Print(f"[Process] Get Display...\n", Colors.orange, interval=0.0025)
   username = userdata['name']
