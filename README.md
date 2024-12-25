@@ -1,8 +1,8 @@
 #  🪐 Jupiter 🪐
 ![image](https://github.com/user-attachments/assets/7c739472-0ff4-4b27-8189-e2f2a113ae7c)
 
-[!CAUTION]
-Jupiter is downed!
+>[!CAUTION]
+>Jupiter is downed!
 
 Jupiter is a powerful ultimate for Roblox. It allows you to gain complete control over your accounts. If you bought or received cookies from someone, this is just for you. Now Jupiter is free as it is in a test version until the new year. Free user:
 Guset / 123
